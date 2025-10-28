@@ -53,8 +53,8 @@ LegalDocQA uses a RAG (Retrieval-Augmented Generation) pipeline:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/legaldocqa.git
-cd legaldocqa/backend
+git clone https://github.com/DevTaneja/Docs.ai.git
+cd Docsai/backend
 
 # Create virtual environment
 python -m venv venv

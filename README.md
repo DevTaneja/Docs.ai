@@ -84,18 +84,12 @@ npm run dev
  - Verify Sources: Click on citations to view original document passages
 
 API Endpoints
-```json
-POST /api/v1/documents - Upload and process legal documents
-
-GET /api/v1/documents - List processed documents
-
-DELETE /api/v1/documents - Clear all documents
-
-Questions
-POST /api/v1/questions - Ask questions about uploaded documents
-
-System
-GET /status - System status and statistics
-
-GET /health - Health check
-```
+API Endpoints
+Method	Endpoint	Description
+GET	/	Root endpoint - API information
+GET	/status	Get system status and statistics
+POST	/upload	Upload and process legal document
+POST	/ask	Ask question about uploaded documents
+GET	/documents	List all loaded documents
+DELETE	/documents	Clear all documents and reset system
+GET	/health	Health check endpoint

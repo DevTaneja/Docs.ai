@@ -3,7 +3,6 @@ LegalDocQA - AI-Powered Legal Document Question Answering System
 ![](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![](https://img.shields.io/badge/FastAPI-0.68+-green.svg)
 ![](https://img.shields.io/badge/React-18+-blue.svg)
-![](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Overview
 
 LegalDocQA is an AI-powered legal assistant that enables users to upload legal documents and ask natural language questions about their content. The system uses Retrieval-Augmented Generation (RAG) to provide accurate, source-grounded answers from contracts, policies, laws, and other legal documents.

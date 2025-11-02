@@ -85,10 +85,10 @@ npm run dev
 API Endpoints
 API Endpoints
 Method	Endpoint	Description
-GET	/	Root endpoint - API information
-GET	/status	Get system status and statistics
-POST	/upload	Upload and process legal document
-POST	/ask	Ask question about uploaded documents
-GET	/documents	List all loaded documents
-DELETE	/documents	Clear all documents and reset system
-GET	/health	Health check endpoint
+-GET	/	Root endpoint - API information
+-GET	/status	Get system status and statistics
+-POST	/upload	Upload and process legal document
+-POST	/ask	Ask question about uploaded documents
+-GET	/documents	List all loaded documents
+-DELETE	/documents	Clear all documents and reset system
+-GET	/health	Health check endpoint

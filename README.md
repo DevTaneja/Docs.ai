@@ -82,9 +82,8 @@ npm run dev
  - Review Answers: Get AI-generated answers with source citations
  - Verify Sources: Click on citations to view original document passages
 
-API Endpoints
-API Endpoints
-Method	Endpoint	Description
+###API Endpoints
+####Method	Endpoint	Description
 - GET	/	Root endpoint - API information
 - GET	/status	Get system status and statistics
 - POST	/upload	Upload and process legal document
